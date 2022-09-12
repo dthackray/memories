@@ -5,7 +5,7 @@ const Form = () => {
   const classes = useStyles()
 
   return (
-    <div>Form</div>
+    <div className={classes.form}>Form</div>
   )
 }
 
